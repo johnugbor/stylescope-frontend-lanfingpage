@@ -26,7 +26,7 @@ export default function PrivacyPage() {
               <Shield className="w-10 h-10 text-white" />
             </div>
             <h1 className="text-5xl font-bold text-white mb-4">Privacy Policy</h1>
-            <p className="text-slate-300 text-lg">Last updated: October 6, 2025</p>
+            <p className="text-slate-300 text-lg">Last updated: November 11, 2025</p>
           </div>
 
           <div className="bg-slate-800/50 backdrop-blur border border-slate-700 rounded-2xl p-8 space-y-8">
@@ -176,8 +176,9 @@ export default function PrivacyPage() {
                 If you have any questions about this Privacy Policy or our data practices, please contact us:
               </p>
               <ul className="space-y-2 text-slate-300">
-                <li><strong>Email:</strong> privacy@stylescope.app</li>
-                <li><strong>Address:</strong> StyleScope Inc., 123 Fashion Street, San Francisco, CA 94103</li>
+                <li><strong>Email:</strong> devjohnique@gmail.com</li>
+               {/*  <li><strong>Address:</strong> StyleScope Inc., 123 Fashion Street, San Francisco, CA 94103</li>
+               */}
               </ul>
             </section>
           </div>
