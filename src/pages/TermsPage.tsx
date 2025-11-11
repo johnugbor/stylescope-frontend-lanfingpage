@@ -5,7 +5,7 @@ import Footer from '../components/Footer';
 export default function TermsPage() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-900 via-slate-800 to-slate-900">
-      <nav className="bg-slate-900 border-b border-slate-700">
+{/*       <nav className="bg-slate-900 border-b border-slate-700">
         <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
           <Link to="/" className="flex items-center gap-3">
             <img src="/stylescope icon.png" alt="StyleScope" className="w-10 h-10" />
@@ -17,7 +17,7 @@ export default function TermsPage() {
             <Link to="/contact" className="text-slate-300 hover:text-white transition">Contact</Link>
           </div>
         </div>
-      </nav>
+      </nav> */}
 
       <main className="pt-32 pb-20 px-6">
         <div className="max-w-4xl mx-auto">
