@@ -200,7 +200,7 @@ export default function TermsPage() {
               </p>
             </section>
 
-            <section className="bg-emerald-500/10 border border-emerald-500/20 rounded-xl p-6">
+           {/*  <section className="bg-emerald-500/10 border border-emerald-500/20 rounded-xl p-6">
               <h2 className="text-2xl font-bold text-white mb-4 flex items-center gap-3">
                 <AlertCircle className="w-6 h-6 text-emerald-400" />
                 Contact Information
@@ -218,7 +218,7 @@ export default function TermsPage() {
                   </Link>
                 </li>
               </ul>
-            </section>
+            </section> */}
           </div>
 
           <div className="text-center mt-8">

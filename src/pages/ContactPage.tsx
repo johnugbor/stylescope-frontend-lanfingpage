@@ -77,7 +77,7 @@ export default function ContactPage() {
                 <Mail className="w-6 h-6 text-emerald-400" />
               </div>
               <h3 className="text-lg font-semibold text-white mb-2">Email</h3>
-              <p className="text-slate-300 text-sm">support@stylescope.app</p>
+              <p className="text-slate-300 text-sm">devjohnique@gmail.com</p>
               <p className="text-slate-400 text-xs mt-1">We'll respond within 24 hours</p>
             </div>
 

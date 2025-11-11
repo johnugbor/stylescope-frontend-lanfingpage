@@ -26,8 +26,9 @@ export default function Footer() {
             <h4 className="text-white font-semibold mb-4">Company</h4>
             <ul className="space-y-2 text-sm text-slate-400">
               <li><Link to="/about" className="hover:text-white transition">About Us</Link></li>
-              <li><Link to="/contact" className="hover:text-white transition">Contact</Link></li>
+             {/*  <li><Link to="/contact" className="hover:text-white transition">Contact</Link></li>
               <li><Link to="/careers" className="hover:text-white transition">Careers</Link></li>
+             */}
             </ul>
           </div>
           <div>
@@ -36,6 +37,7 @@ export default function Footer() {
               <li><Link to="/privacy" className="hover:text-white transition">Privacy Policy</Link></li>
               <li><Link to="/terms" className="hover:text-white transition">Terms of Service</Link></li>
               <li><Link to="/delete-account" className="hover:text-white transition">Delete Account</Link></li>
+           
             </ul>
           </div>
         </div>

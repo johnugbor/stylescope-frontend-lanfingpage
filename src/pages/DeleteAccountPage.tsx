@@ -176,8 +176,8 @@ export default function DeleteAccountPage() {
               </p>
               <p className="text-slate-300 mb-8">
                 If you change your mind, you can contact us at{' '}
-                <a href="mailto:support@stylescope.app" className="text-emerald-400 hover:text-emerald-300 underline">
-                  support@stylescope.app
+                <a href="mailto:devjohnique@gmail.com" className="text-emerald-400 hover:text-emerald-300 underline">
+                  devjohnique@gmail.com
                 </a>{' '}
                 within 7 days to cancel this request.
               </p>
@@ -193,7 +193,7 @@ export default function DeleteAccountPage() {
           <div className="mt-8 text-center">
             <p className="text-slate-400 text-sm">
               Need help?{' '}
-              <a href="mailto:support@stylescope.app" className="text-emerald-400 hover:text-emerald-300 underline">
+              <a href="mailto:devjohnique@gmail.com" className="text-emerald-400 hover:text-emerald-300 underline">
                 Contact Support
               </a>
             </p>

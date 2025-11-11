@@ -11,10 +11,10 @@ export default function HomePage() {
             <img src="/stylescope icon.png" alt="StyleScope" className="w-10 h-10" />
             <span className="text-2xl font-bold text-white">StyleScope</span>
           </div>
-          <div className="flex gap-6 text-sm">
+         {/*  <div className="flex gap-6 text-sm">
             <Link to="/privacy" className="text-slate-300 hover:text-white transition">Privacy</Link>
             <Link to="/delete-account" className="text-slate-300 hover:text-white transition">Delete Account</Link>
-          </div>
+          </div> */}
         </div>
       </nav>
 

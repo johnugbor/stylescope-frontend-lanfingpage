@@ -105,7 +105,7 @@ export default function AboutPage() {
             <p className="text-slate-300 mb-6 max-w-2xl mx-auto">
               Whether you're a fashion enthusiast, a retailer looking to enhance your online presence, or a talented individual wanting to join our team, we'd love to hear from you.
             </p>
-            <div className="flex flex-col sm:flex-row gap-4 justify-center">
+            {/* <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link
                 to="/contact"
                 className="bg-gradient-to-r from-emerald-500 to-cyan-500 text-white font-semibold px-8 py-3 rounded-full hover:shadow-xl hover:shadow-emerald-500/25 transition-all transform hover:scale-105"
@@ -118,7 +118,7 @@ export default function AboutPage() {
               >
                 View Careers
               </Link>
-            </div>
+            </div> */}
           </div>
         </div>
       </main>

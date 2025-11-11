@@ -13,7 +13,8 @@ export default function PrivacyPage() {
           </Link>
           <div className="flex gap-6 text-sm">
             <Link to="/" className="text-slate-300 hover:text-white transition">Home</Link>
-            <Link to="/delete-account" className="text-slate-300 hover:text-white transition">Delete Account</Link>
+           {/*  <Link to="/delete-account" className="text-slate-300 hover:text-white transition">Delete Account</Link>
+           */}
           </div>
         </div>
       </nav>
