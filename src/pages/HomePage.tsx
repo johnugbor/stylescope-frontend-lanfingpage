@@ -33,6 +33,12 @@ export default function HomePage() {
               Join Waitlist
             </a>
           </div>
+          <div className="text-center mb-16">
+            <h2 className="text-4xl md:text-5xl font-bold text-white mb-4">How It Works</h2>
+            <p className="text-xl text-slate-300 max-w-2xl mx-auto">
+              Transform your shopping experience in three simple steps
+            </p>
+          </div>
 
           <div className="grid md:grid-cols-3 gap-8 mb-20" id="how-it-works">
             <div className="bg-slate-800/50 backdrop-blur border border-slate-700 rounded-2xl p-8 hover:border-emerald-500/50 transition">
